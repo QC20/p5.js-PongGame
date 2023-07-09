@@ -1,5 +1,5 @@
 # Pong Game
-This repository contains a simple implementation of the classic Pong game using p5.js. The game allows a player to play against an AI opponent in a game of Pong.
+This repository contains a simple implementation of the classic Pong game using p5.js. The game allows a player to play against an AI opponent in a game of Pong. Since the "pong game challenge" is one most programmers will endeavor on at some point in their career, I have devised this piece of code script as inspiration or a blueprint for how to get started making your own pong game. I invite you to try extending the game with additional features, and please leverage the fact that you are working in a 'visual/interactive art' framework. See if you are able to use some of that. Have fun! :-)
 
 <img width="817" alt="image" src="https://github.com/QC20/p5.js-PongGame/assets/36644388/e5a7c68a-1fcd-4cb4-b6cd-ad751a5279e3">
 
