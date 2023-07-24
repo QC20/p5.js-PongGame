@@ -65,4 +65,4 @@ Feel free to use and modify the code to create your own versions of the game.
 ## Acknowledgements
 This game was created based on the [Pong Tutorial](https://p5js.org/examples/interaction-pong.html) from the p5.js website.
 
-The original tutorial was modified and extended to add additional features such as multiple rounds, game over screen, and AI opponent.
+The original tutorial was modified and extended to add additional features such as multiple rounds, game over screen, and AI opponent. 
